@@ -1,0 +1,17 @@
+[theme]
+
+# Color primario para elementos interactivos
+primaryColor = '#0000FF'  # Azul
+
+# Color de fondo para el área de contenido principal
+backgroundColor = '#000000'  # Negro
+
+# Color de fondo para la barra lateral y la mayoría de los widgets interactivos
+secondaryBackgroundColor = '#1A1A1A'  # Gris oscuro
+
+# Color utilizado para casi todo el texto
+textColor = '#FFFFFF'  # Blanco
+
+# Fuente para todo el texto en la aplicación, excepto los bloques de código
+font = "sans serif"  # Por defecto, sans serif
+
